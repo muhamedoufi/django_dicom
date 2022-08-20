@@ -11,6 +11,7 @@ A django app to manage [DICOM][1] files.
 This app creates the basic models for DICOM data abstraction: Study, Patient, Series, and Image.
 The models are complemented with some utility methods to facilitate data access.
 
+#with this repo we solve pandas installation problem
 ## Quick start
 
 1. Add "django_dicom" to your INSTALLED_APPS setting:
